@@ -1,4 +1,4 @@
-# Hi, I'm Qi Hao
+# Hi, I'm Hao Qi 
 
 I'm an MSc Enterprise Artificial Intelligence student at Nanyang Technological University in Singapore, with a bachelor's degree in Finance. I work on applied AI and automation projects where source evidence, human review, and clear product boundaries matter.
 
